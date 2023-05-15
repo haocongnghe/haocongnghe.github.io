@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://haocongnghe.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
@@ -13,10 +13,10 @@ author: Hao Truong # add your name
 author-img: my-picture.jpg # add your photo
 about-author: I am a PHP, Nodejs, React web developer focusing on Back End development. Always hungry to keep learning. # add description
 social-twitter: @haocongnghe # add your Twitter handle
-social-facebook: https://www.facebook.com/haotruongvan # add your Facebook handle
+social-facebook: haotruongvan # add your Facebook handle
 social-github: haocongnghe # add your Github handle
-social-linkedin: https://www.linkedin.com/in/hao-truong-64357288/# add your Linkedin handle
-social-email: haocongnghe@gmail.com# add your Email address
+social-linkedin: haotruong20101989 # add your Linkedin handle
+social-email: haocongnghe@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: haotruong # add your discus identifier
